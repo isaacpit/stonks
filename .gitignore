@@ -1,3 +1,7 @@
+*.csv
+
+
+# ------------------- github generated python .gitgnore 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
